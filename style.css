@@ -1,0 +1,29 @@
+body{
+
+background: #DF5ADA;
+background: -webkit-radial-gradient(bottom right, #ffea2a, #ff9f45);
+background: -moz-radial-gradient(bottom right, #DF5ADA, #E12B4F);
+background: radial-gradient(to top left, #DF5ADA, #E12B4F);
+
+}
+
+
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy {
+
+    color: aqua;
+}
+
+
+#camera{
+
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+}
+
